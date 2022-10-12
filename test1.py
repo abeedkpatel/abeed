@@ -2,6 +2,12 @@ import pandas as pd
 import numpy as np
 import matplotlib as mlp
  
+ gsdaKLJGKJGSda;ougcdsOGHLHGd
+ \kvdskjkjgdf
+ KJKJGDS
+ HLHDSA
+ KJDS
+ 
 a = 10
 for i in range(a):
     print(i)
