@@ -12,25 +12,13 @@ else:
 
 print("hello world ")
 print("i am excited working on git gub")
-print("this is my developer1 ")
-print("working in git hub")
-print("hello world ")
-print("i am excited working on git gub")
-print("this is my developer1 ")
-print("working in git hub")
-print("hello world ")
-print("i am excited working on git gub")
-print("this is my developer1 ")
-print("working in git hub")
-print("this is my developer1 ")
-print("working in git hub")
-print("hello world ")
-print("i am excited working on git gub")
-print("this is my developer1 ")
-print("working in git hub")
-print("hello world ")
-print("i am excited working on git gub")
-print("this is my developer1 ")
-print("working in git hub")
 
 
+lst = ['alice', 'bob', 'carl']
+i, j = 0, 2
+
+lst[i], lst[j] = lst[j], lst[i]
+
+print(lst)
+'ks;ljfes;lj;sdfjaadsf
+j;daj;aljdfgsd'
