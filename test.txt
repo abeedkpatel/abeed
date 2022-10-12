@@ -22,12 +22,3 @@ from dash.dependencies import Input, Output
 import plotly.express as px 
 import plotly.graph_objects as go
 
-import pandas as pd
-from sqlite3 import Error
-import sqlite3
-global master_df
-
-# ################################################################################
-'''
-create connection with data warehouse
-extract information of interest from data warehouse
