@@ -7,7 +7,7 @@ import matplotlib as mlp
  KJKJGDS
  HLHDSA
  KJDS
- 
+
 a = 10
 for i in range(a):
     print(i)
@@ -26,5 +26,3 @@ i, j = 0, 2
 lst[i], lst[j] = lst[j], lst[i]
 
 print(lst)
-'ks;ljfes;lj;sdfjaadsf
-j;daj;aljdfgsd'
